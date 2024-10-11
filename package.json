@@ -1,35 +1,18 @@
 {
-
-  "name": "awsome-package-erikas",
-
+  "name": "awsome-package-erikas2",
   "version": "1.0.0",
-
   "description": "A test package for malicious dependency detection",
-
   "main": "reverse-shell.js",
-
   "scripts": {
-
     "start": "node normal-package.js"
-
   },
-
   "repository": {
-
     "type": "git",
-
-    "url": "https://github.com/your-repo/malicious-test-package.git"
-
+    "url": "https://github.com/balamutas/awsomedependency.git"
   },
-
   "author": "Your Name",
-
   "license": "MIT",
-
   "dependencies": {
-
     "net": "^1.0.2"
-
   }
-
 }
